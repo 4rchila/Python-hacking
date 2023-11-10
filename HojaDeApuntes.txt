@@ -1,0 +1,16 @@
+Uso de lenguaje:
+python 
+
+Porque pythonn es bueno para el hacking
+-Es muy bueno para leerlo
+-Esten tiene mucha librerias 
+-flxibilidad
+
+
+Recopilacion de Informacion
+
+-para que nos sirve
+para cuando tengamos  hacer un hacking aplicacion web encontrar subdominios y alcance
+
+-Bannergrabing
+encontrar informacion en un banner
